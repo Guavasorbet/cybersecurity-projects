@@ -6,7 +6,7 @@
 
 ## 📌 Objective
 
-Use Cisco Packet Tracer's Simulation Mode to observe how traffic flows through both an **unrouted** flat LAN and a **routed** multi-network topology. Compare ARP broadcast behavior before and after introducing routing, then answer questions that demonstrate understanding of how routing improves network efficiency and security.
+ observe how traffic flows through both an **unrouted** flat LAN and a **routed** multi-network topology. Compare ARP broadcast behavior before and after introducing routing, then answer questions that demonstrate understanding of how routing improves network efficiency and security.
 
 ---
 
@@ -44,6 +44,10 @@ Switched to Simulation Mode and initiated a ping from Sales 2 to Sales 1. Advanc
 > **Question answered in lab:** *Which hosts and devices processed the ARP request?*
 > **All hosts and the router interface** — every device on the single flat network had to process it.
 
+<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/886b3a6d-7215-46d1-89b7-a579c0214f0e" />
+
+
+
 ![Packet Tracer topology showing XYZ LLC unrouted network with Accounting, Finance, and Sales departments on a single segment](screenshots/traffic/img-001.png)
 
 ---
@@ -80,8 +84,6 @@ Returned to Simulation Mode and repeated the ping from Sales 2 to Sales 1.
 
 > **Question answered in lab:** *What is the benefit of multiple IPv4 subnetworks in an enterprise?*
 > Boosts performance and reduces congestion; also enhances security by isolating segments to contain threats and allowing better control over access policies.
-
-![Assessment results showing Finance 2 IP address flagged as needing renewal, with other connections marked correct](screenshots/traffic/img-002.png)
 
 ---
 
