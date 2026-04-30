@@ -1,4 +1,4 @@
-# Lab – Configure Access Control
+# Configure Access Control
 
 > **Tools Used:** Cisco Packet Tracer, AAA-RADIUS Server, Email Server, FTP Server
 
