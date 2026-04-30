@@ -1,4 +1,4 @@
-# Lab – Observe Web Requests
+# Observe Web Requests
 
 > **Tools Used:** Cisco Packet Tracer – Simulation Mode, Web Browser (simulated)
 
