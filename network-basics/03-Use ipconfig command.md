@@ -1,4 +1,4 @@
-# Lab – Use the ipconfig Command
+# Use the ipconfig Command
 
 > **Tools Used:** Cisco Packet Tracer, Windows Command Prompt
 
