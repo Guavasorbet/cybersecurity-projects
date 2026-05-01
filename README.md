@@ -45,7 +45,7 @@ Windows and Linux security labs. Covers malware analysis, access control, regist
 ---
 
 ### 🔬 [CySA+ Labs](./cysa-plus/)
-CompTIA CySA+ aligned labs across three course modules (180, 181, 182). Covers threat intelligence, vulnerability scanning, incident response, forensic analysis, and root cause analysis.
+Covers threat intelligence, vulnerability scanning, incident response, forensic analysis, and root cause analysis.
 
 
 
