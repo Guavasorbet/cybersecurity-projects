@@ -47,7 +47,7 @@ Windows and Linux security labs. Covers malware analysis, access control, regist
 ### 🔬 [CySA+ Labs](./cysa-plus/)
 Covers threat intelligence, vulnerability scanning, incident response, forensic analysis, and root cause analysis.
 
-⚠️ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=NEW+PROJECTS...;COMING+UP...;MAY+2026...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=⚠️NEW+PROJECTS...;⚠️COMING+UP...;⚠️MAY+2026...)
 
 
 
