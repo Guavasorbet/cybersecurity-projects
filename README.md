@@ -1,6 +1,8 @@
-  <img width="900" height="400" alt="Video Project 10" src="https://github.com/user-attachments/assets/1b539650-c3db-47e2-8812-e7da83cd41a7" />
+<div align="center">
+  <img width="800" height="400" alt="guava in cyber space-3" src="https://github.com/user-attachments/assets/7d873825-6345-4ad8-8e7b-3f87d8d562f0" />
+</div>
 
-# 🛡️ Cybersecurity Projects Portfolio
+## 🛡️ Cybersecurity Projects Portfolio
 
 > Hands-on Cybersecurity labs and projects demonstrating network defense, endpoint security, threat detection, incident response, and vulnerability management using industry-standard tools and frameworks.
 
@@ -47,7 +49,7 @@ Windows and Linux security labs. Covers malware analysis, access control, regist
 ### 🔬 [CySA+ Labs](./cysa-plus/)
 Covers threat intelligence, vulnerability scanning, incident response, forensic analysis, and root cause analysis.
 
- ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=⚠️NEW+PROJECTS...;⚠️COMING+UP...;⚠️MAY+2026...)
+ ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=⚠️NEW+PROJECTS+COMING+UP+MAY+2026...)
 
 
 
