@@ -1,4 +1,4 @@
-  <img width="900" height="350" alt="Video Project 10" src="https://github.com/user-attachments/assets/1b539650-c3db-47e2-8812-e7da83cd41a7" />
+  <img width="900" height="400" alt="Video Project 10" src="https://github.com/user-attachments/assets/1b539650-c3db-47e2-8812-e7da83cd41a7" />
 
 # 🛡️ Cybersecurity Projects Portfolio
 
