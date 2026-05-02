@@ -40,7 +40,7 @@ Security-focused networking labs. Covers ACLs, Zone-Based Firewalls, encryption 
 
 ---
 
-### 💻 [IT Security & Endpoint Protection](./it-security-endpoint/)
+### 💻 [IT Security & Endpoint Protection](./Security-and-Endpoint/)
 Windows and Linux security labs. Covers malware analysis, access control, registry inspection, PowerShell, port scanning, log analysis, and system hardening.
 
 
