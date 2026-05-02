@@ -34,7 +34,7 @@ Foundational networking labs using Cisco Packet Tracer. Covers wireless configur
 
 ---
 
-### 🔒 [Network Defense](./network-defense/)
+### 🔒 [Network Defense](./Network-Defense/)
 Security-focused networking labs. Covers ACLs, Zone-Based Firewalls, encryption algorithms, authentication protocols, steganography, and network monitoring.
 
 
