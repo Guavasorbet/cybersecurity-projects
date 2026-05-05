@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=98FF98&center=true&vCenter=true&width=700&lines=Guava+Sorbet" alt="Typing SVG" />
+</div>
+
+<div align="center">
   <img width="800" height="400" alt="guava in cyber space-3" src="https://github.com/user-attachments/assets/7d873825-6345-4ad8-8e7b-3f87d8d562f0" />
 </div>
 
