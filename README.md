@@ -14,7 +14,11 @@
 
 ## 👤 About
 
-This repository documents my hands-on cybersecurity training across four core domains. Each lab entry includes the objective, tools used, methodology, and key findings — organized to reflect real-world SOC and security analyst workflows.
+If you are wondering how I ended up nosediving into Cybersecurity....sure I'll tell ya!
+
+It was a Tuesday night after my intense workout session ( a 25-minute treadmill walk), and I found myself absolutely famished. I decided to stop by Shake Shack because it was bulking season, of course. I placed my order, a double cheeseburger with extra sauce, and waited for my name to be called. Thirty minutes passed by, so naturally, I asked about the status. Turns out someone had impersonated me and took off with my double cheeseburger with extra sauce. I took that personally, I went home that night and googled "how to prevent being impersonated", somehow my searched let me to things like "Digital footprint", password management, security. Next thing I know, I enrolled in a cybersecurity program.  So here I am.
+
+On a more serious note, this repository documents my hands-on cybersecurity training across different domains. Each lab entry includes the objective, tools used, methodology, and key findings — organized to reflect real-world SOC and security analyst workflows. The learning curve is a long one, full of puzzles, head-scratching moments, lots of googling, video learning moments, and, most of all, full of possibilities.
 
 ---
 
