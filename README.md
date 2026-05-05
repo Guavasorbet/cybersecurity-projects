@@ -55,5 +55,6 @@ Covers threat intelligence, vulnerability scanning, incident response, forensic 
 
  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=98FF98&center=false&vCenter=false&width=400&lines=⚠️NEW+PROJECTS+COMING+UP+MAY+2026...)
 
+<img width="1000" height="350" alt="Into the cyberspace" src="https://github.com/user-attachments/assets/28371267-66a6-44b3-8bc4-268a6f598585" />
 
 
